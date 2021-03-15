@@ -3,8 +3,8 @@
 <img align='right' src='https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif' width=350 frameBorder="0" ></img>
 
 
-:woman_student: Brazilian Front-End Student at [Laboratória](https://www.laboratoria.la/br)<br>
-:cityscape: Based in São Paulo <br>
+:woman_student: Front-End Student at [Laboratória](https://www.laboratoria.la/br)<br>
+:cityscape: Brazilian Based in São Paulo <br>
 :mortar_board: Architect and Urban Planner <br>
 :books: I'm a curious person who loves to learn new things <br>
 :computer: Always had a crush on technology <br>
