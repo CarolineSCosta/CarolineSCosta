@@ -4,7 +4,7 @@
 
 
 :woman_student: Front-End Student at [Laboratória](https://www.laboratoria.la/br)<br>
-:cityscape: Brazilian Based in São Paulo <br>
+:cityscape: Brazilian based in São Paulo <br>
 :mortar_board: Architect and Urban Planner <br>
 :books: I'm a curious person who loves to learn new things <br>
 :computer: Always had a crush on technology <br>
