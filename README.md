@@ -1,4 +1,4 @@
-#### Hi there, I'm Carol! :wave:
+#### Hi there, I'm Carol! 
 
 <img align='right' src='https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif' width=350 frameBorder="0" ></img>
 
@@ -16,6 +16,6 @@
 :camera: [Intagram](https://www.instagram.com/carolmarcionilia/)<br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/carolinescosta/)<br>
 
-#### Feel free to contact me. See ya!
+#### Feel free to contact me. See ya! :wave:
 
 
