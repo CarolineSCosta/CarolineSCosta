@@ -13,7 +13,7 @@
 
 
 #### You also can check my social accounts: 
-:camera: [Intagram](https://www.instagram.com/carolmarcionilia/)<br>
+:camera: [Instagram](https://www.instagram.com/carolmarcionilia/)<br>
 :briefcase: [LinkedIn](https://www.linkedin.com/in/carolinescosta/)<br>
 
 #### Feel free to contact me. See ya! :wave:
