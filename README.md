@@ -1,7 +1,6 @@
 #### Hi there, I'm Carol! 
 
-<img align='right' src='https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif' width=350 frameBorder="0" ></img>
-
+src="https://camo.githubusercontent.com/6f5e3ead776bc722fbfc3da2c8b1454a7a5f27a07b34c0ced075f90a6c25a3be/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313630302f302a4b32574c4d5445784c79696461374f522e676966" width=350 frameBorder="0" ></img>
 
 :woman_student: Front-End Developer graduated from [Laboratória](https://www.laboratoria.la/br)<br>
 :cityscape: Brazilian based in São Paulo <br>
